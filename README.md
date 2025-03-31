@@ -1,4 +1,4 @@
-# Security Practices for Web Applications
+# Security Practices for NodeJS
 
 This repository contains examples and implementations of various security practices for web applications, particularly focusing on Node.js and Express. Each folder corresponds to a specific security measure, demonstrating how to integrate it into your project.
 ## Security Practices
